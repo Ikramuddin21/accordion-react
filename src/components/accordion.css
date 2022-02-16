@@ -1,0 +1,13 @@
+.accordion-item {
+    margin: 8px 0;
+}
+
+.heading {
+    background-color: lightgray;
+    padding: 12px 5px;
+    border-radius: 5px;
+}
+
+.description {
+    padding: 5px;
+}
